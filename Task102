@@ -1,0 +1,7 @@
+#Task102:
+
+1. Write a bash script to delete 7 days old logs of ( Apache/Ngnix/SSH Logs)Vagrant Box Machine.
+Schedule a cronjob to run once in every week.
+
+
+2. Write a bash script to send an email.
